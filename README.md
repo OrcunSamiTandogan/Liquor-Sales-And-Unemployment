@@ -2,8 +2,7 @@
 Visualizing and finding clusters of a dataset with representing liquor sales and unemployment information for the state of Iowa for 2012-2021 which will focus on the affect of the pandemic. All codes have been written in R Studio.
 
 
-X
-<img src="https://user-images.githubusercontent.com/73159487/172399022-36bb39ff-2f16-466a-8307-660d22f46240.png" width=10% height=10%>
+<img src="https://user-images.githubusercontent.com/73159487/172399022-36bb39ff-2f16-466a-8307-660d22f46240.png" width=30% height=30%>
 
 <img src="https://user-images.githubusercontent.com/73159487/172399954-1c404da2-e5c8-4263-9a2b-65335eacc67f.png" width=50% height=50%>
 
